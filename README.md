@@ -245,15 +245,16 @@ Accuracy: 0.9454494714736938 (Batch Size : 256)
 <br><br>
 <h2>기타 모델 결과<br></h2>
 <p><h3> ROC 커브 및 AUC</h3>
-
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/27263978-5de2-4260-a164-327803326eb9" alt="Untitled (1)"></a>
 </p>
 
 <br><br>
 <h2>결론<br></h2>
 <p>
-LGBM이 가장 높은 성능을 나타냄<br>
-그러나 다른 모델들 또한 92점 이상의 정확도를 보임<br>
-PCA를 통해 차원 축소를 할 경우 성능이 하락할 수 있음<br>
+  
+* LGBM이 가장 높은 성능을 나타냄
+* 그러나 다른 모델들 또한 92점 이상의 정확도를 보임
+* PCA를 통해 차원 축소를 할 경우 성능이 하락할 수 있음<br>
 
 </p>
 </div>
