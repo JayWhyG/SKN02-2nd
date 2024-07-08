@@ -1,6 +1,3 @@
-<div align="center">
-
-</head>
 <body>
   <h3 class="center pink-text">SKN02-2nd-1Team</h3> 
 </body>
@@ -21,8 +18,8 @@
   <div>
   <a href="https://www.python.org/downloads/release/python-370/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/034428e1-d5e8-417e-9dd1-617b5b68269c" alt="Untitled (1)" width="120" height="120"></a>
      <a href="https://pandas.pydata.org/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/2e04b09b-5b08-43f0-9659-21a92917fb1f" alt="Untitled (1)" width="120" height="120"></a>
-     <a href="https://scikit-learn.org/stable/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/1c8c1e62-7b2d-41e8-b1fb-048648f3b742" alt="Untitled (1)" width="130" height="120"></a>
-    <a href="https://www.tensorflow.org/?hl=ko"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/87c81032-76df-4a93-9b0f-948c114ec5b3" alt="Untitled (1)" width="130" height="120"></a>
+     <a href="https://scikit-learn.org/stable/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/de34781a-f6a4-48bb-ac68-217f17903226" alt="Untitled (1)" width="120" height="120"></a>
+    <a href="https://www.tensorflow.org/?hl=ko"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/69da3041-e258-49cd-88b6-a95870085234" alt="Untitled (1)" width="120" height="120"></a>
   </div>
 
 <br><br>
@@ -44,21 +41,32 @@
 
 <h2 class="pink-text">시각화</h2>
 <h3> 1. 연령대에 따른 initial과 churn 비율<br></h3>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/459960a8-739b-423d-ae75-a811126850fc" alt="Untitled (1)"></a>
 <p>
 
 </p>
 
 <h3> 2. 분기에 따른 Transaction 타입 <br></h3>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/57729781-6d37-47ef-8d15-c10e599f7abe" alt="Untitled (1)"></a>
 <p>
 
 </p>
 
 <h3> 3. 진입 경로에 따른 초기 사용자의 구독 플랜 타입 <br></h3>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/3c6d5e41-03c3-41ec-8a8b-c680066c3882" alt="Untitled (1)"></a>
 <p>
 
 </p>
 
 <h3> 5. Heat Map <br></h3>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/2b2d4452-4128-4f0a-bb91-868f9fb916bc" alt="Untitled (1)"></a>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/0396e962-6292-42cf-a4ee-b091a4ef8db7" alt="Untitled (1)"></a>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/d7e12dc1-c20b-4731-af75-7f0c9a4b4aeb" alt="Untitled (1)"></a>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/15b56de0-9788-4e40-8023-3a52bcaaa927" alt="Untitled (1)"></a>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/64c164fc-efd1-4eaf-b78f-1349ffb537c5" alt="Untitled (1)"></a>
+
+
+
 <p>
 
 </p>
@@ -112,7 +120,8 @@
 
 <h2 class="pink-text">선택한 ML model</h2>
 
-<h2>"LightGBM"</h2>
+ * LightGBM
+
 <br><br>
 
 <h2>LightGBM 결과<br></h2>
