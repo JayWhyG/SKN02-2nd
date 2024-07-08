@@ -72,7 +72,123 @@
 
 <h2 class="pink-text">선택한 ML model</h2>
 
-<p style = "text-align : center;" >"LightGBM"</p>
+<h2>"LightGBM"</h2>
+<br><br>
+
+<h2>LightGBM 결과</h2>
+<p>
+Accuracy: 0.9512941831338714
+  
+                  precision    recall  f1-score   support
+           False       0.94      1.00      0.97      2576
+            True       0.99      0.84      0.91      1017
+  
+        accuracy                           0.95      3593
+       macro avg       0.96      0.92      0.94      3593
+    weighted avg       0.95      0.95      0.95      3593
+  
+</p>
+
+<h2>기타 모델 결과</h2>
+<p>
+1. DecisionTree
+Accuracy: 0.8883940996381854
+  
+                  precision    recall  f1-score   support
+           False       0.89      0.97      0.93      2576
+            True       0.89      0.69      0.78      1017
+
+       accuracy                            0.89      3593
+       macro avg       0.89      0.83      0.85      3593
+    weighted avg       0.89      0.89      0.88      3593
+</p>
+<p>
+2. Random Forest
+Accuracy: 0.9273587531310882
+  
+                  precision    recall  f1-score   support
+           False       0.92      0.98      0.95      2576
+            True       0.95      0.78      0.86      1017
+
+        accuracy                           0.93      3593
+       macro avg       0.94      0.88      0.91      3593
+    weighted avg       0.93      0.93      0.93      3593
+</p>
+<p>
+3. XGBoost
+Accuracy: 0.9448928472028946
+  
+                  precision    recall  f1-score   support
+
+           False       0.94      0.98      0.96      2576
+            True       0.96      0.84      0.90      1017
+
+        accuracy                           0.94      3593
+       macro avg       0.95      0.91      0.93      3593
+    weighted avg       0.95      0.94      0.94      3593
+</p>
+<p>
+4. LightGBM
+Accuracy: 0.9512941831338714
+    
+                  precision    recall  f1-score   support
+           False       0.94      1.00      0.97      2576
+            True       0.99      0.84      0.91      1017
+
+        accuracy                           0.95      3593
+       macro avg       0.96      0.92      0.94      3593
+    weighted avg       0.95      0.95      0.95      3593
+</p>
+<p>
+5. LightGBM w/o period
+Accuracy: 0.8569440578903423
+      
+                  precision    recall  f1-score   support
+           False       0.86      0.96      0.91      2576
+            True       0.86      0.59      0.70      1017
+
+        accuracy                           0.86      3593
+       macro avg       0.86      0.78      0.80      3593
+    weighted avg       0.86      0.86      0.85      3593
+</p>
+
+<p>
+6. PCA_XGBoost
+Accuracy (PCA Data): 0.7008071249652101
+   
+                  precision    recall  f1-score   support
+           False       0.77      0.84      0.80      2576
+            True       0.46      0.35      0.40      1017
+
+        accuracy                           0.70      3593
+       macro avg       0.61      0.60      0.60      3593
+    weighted avg       0.68      0.70      0.69      3593
+</p>
+<p>
+7. PCA_LightGBM
+Accuracy: 0.6927358753131089
+        
+                  precision    recall  f1-score   support
+           False       0.77      0.82      0.79      2576
+            True       0.45      0.37      0.40      1017
+
+        accuracy                           0.69      3593
+       macro avg       0.61      0.59      0.60      3593
+    weighted avg       0.68      0.69      0.68      3593
+</p>
+<p>
+8. MultiLayer Perceptron
+Accuracy: 0.9454494714736938 (Batch Size : 256)
+
+                  precision    recall  f1-score   support
+
+           False       0.94      0.99      0.96      2576
+            True       0.98      0.83      0.90      1017
+
+        accuracy                           0.95      3593
+       macro avg       0.96      0.91      0.93      3593
+    weighted avg       0.95      0.95      0.94      3593
+</p>
 
 
 </div>
