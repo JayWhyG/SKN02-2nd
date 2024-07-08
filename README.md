@@ -16,11 +16,14 @@
     <h3>|&nbsp;&nbsp;&nbsp;송문영&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;장준영&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;사재민&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;이재원&nbsp;&nbsp;&nbsp;|</h3>
 </div>
 
-<br>
-</div>
-<h2>기술 스택</h2>
-<h3>Python, Pandas, SKlearn, Tensorflow</h3>
-</div>
+<br><div align="center">
+    <h2> 🦋기술 스택🦋</h2>
+  <div>
+  <a href="https://www.python.org/downloads/release/python-370/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/034428e1-d5e8-417e-9dd1-617b5b68269c" alt="Untitled (1)" width="120" height="120"></a>
+     <a href="https://pandas.pydata.org/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/2e04b09b-5b08-43f0-9659-21a92917fb1f" alt="Untitled (1)" width="120" height="120"></a>
+     <a href="https://scikit-learn.org/stable/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/1c8c1e62-7b2d-41e8-b1fb-048648f3b742" alt="Untitled (1)" width="120" height="120"></a>
+    <a href="https://www.tensorflow.org/?hl=ko"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/cf36eb92-9e51-4393-b50d-d33bf812984b" alt="Untitled (1)" width="120" height="120"></a>
+  </div>
 
 <br><br>
 
