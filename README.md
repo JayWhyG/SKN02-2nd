@@ -40,10 +40,26 @@
 <br><br>
 
 <h2 class="pink-text">시각화</h2>
+<h3> 1. 연령대에 따른 initial과 churn 비율<br></h3>
 <p>
-  
+
 </p>
-    
+
+<h3> 2. 분기에 따른 Transaction 타입 <br></h3>
+<p>
+
+</p>
+
+<h3> 3. 진입 경로에 따른 초기 사용자의 구독 플랜 타입 <br></h3>
+<p>
+
+</p>
+
+<h3> 5. Heat Map <br></h3>
+<p>
+
+</p>
+
 </div>
 
 <br><br>
@@ -96,7 +112,7 @@
 <h2>"LightGBM"</h2>
 <br><br>
 
-<h2>LightGBM 결과</h2>
+<h2>LightGBM 결과<br></h2>
 <p>
 Accuracy: 0.9512941831338714
   
@@ -109,10 +125,10 @@ Accuracy: 0.9512941831338714
     weighted avg       0.95      0.95      0.95      3593
   
 </p>
-
-<h2>기타 모델 결과</h2>
+<br><br>
+<h2>기타 모델 결과<br></h2>
 <p>
-1. DecisionTree
+<h3>1. DecisionTree<br></h3>
 Accuracy: 0.8883940996381854
   
                   precision    recall  f1-score   support
@@ -124,7 +140,7 @@ Accuracy: 0.8883940996381854
     weighted avg       0.89      0.89      0.88      3593
 </p>
 <p>
-2. Random Forest
+<h3>2. Random Forest<br></h3>
 Accuracy: 0.9273587531310882
   
                   precision    recall  f1-score   support
@@ -136,7 +152,7 @@ Accuracy: 0.9273587531310882
     weighted avg       0.93      0.93      0.93      3593
 </p>
 <p>
-3. XGBoost
+<h3>3. XGBoost<br></h3>
 Accuracy: 0.9448928472028946
   
                   precision    recall  f1-score   support
@@ -149,7 +165,7 @@ Accuracy: 0.9448928472028946
     weighted avg       0.95      0.94      0.94      3593
 </p>
 <p>
-4. LightGBM
+<h3>4. LightGBM<br></h3>
 Accuracy: 0.9512941831338714
     
                   precision    recall  f1-score   support
@@ -161,7 +177,7 @@ Accuracy: 0.9512941831338714
     weighted avg       0.95      0.95      0.95      3593
 </p>
 <p>
-5. LightGBM w/o period
+<h3>5. LightGBM w/o period<br></h3>
 Accuracy: 0.8569440578903423
       
                   precision    recall  f1-score   support
@@ -174,7 +190,7 @@ Accuracy: 0.8569440578903423
 </p>
 
 <p>
-6. PCA_XGBoost
+<h3>6. PCA_XGBoost<br></h3>
 Accuracy (PCA Data): 0.7008071249652101
    
                   precision    recall  f1-score   support
@@ -186,7 +202,7 @@ Accuracy (PCA Data): 0.7008071249652101
     weighted avg       0.68      0.70      0.69      3593
 </p>
 <p>
-7. PCA_LightGBM
+<h3>7. PCA_LightGBM<br></h3>
 Accuracy: 0.6927358753131089
         
                   precision    recall  f1-score   support
@@ -198,7 +214,7 @@ Accuracy: 0.6927358753131089
     weighted avg       0.68      0.69      0.68      3593
 </p>
 <p>
-8. MultiLayer Perceptron
+<h3>8. MultiLayer Perceptron<br></h3>
 Accuracy: 0.9454494714736938 (Batch Size : 256)
 
                   precision    recall  f1-score   support
@@ -214,7 +230,20 @@ Accuracy: 0.9454494714736938 (Batch Size : 256)
 
 </div>
 <div>
+<br><br>
+<h2>기타 모델 결과<br></h2>
+<p><h3> ROC 커브 및 AUC(최종)</h3>
 
+</p>
+
+<br><br>
+<h2>결론<br></h2>
+<p>
+LGBM이 가장 높은 성능을 나타냄<br>
+그러나 다른 모델들 또한 92점 이상의 정확도를 보임<br>
+PCA를 통해 차원 축소를 할 경우 성능이 하락할 수 있음<br>
+
+</p>
 </div>
 <br><br>
 </body>
