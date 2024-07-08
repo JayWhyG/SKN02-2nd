@@ -72,19 +72,19 @@
 - 자동으로 결측값을 처리<br>
 - 정규호를 통한 과적합 방지<br>
 - 높은 예측 정확도와 빠른 속도<br>
--다수의 하이퍼파라미터 필요
+- 다수의 하이퍼파라미터 필요
 </p>
 <h3> 4. LightGBM<br></h3>
 <p>
-- 여러 개의 약한 학습기를 결합하여 강력한 예측 모델을 활용
+- 여러 개의 약한 학습기를 결합하여 강력한 예측 모델을 활용<br>
 - 그리고 트리 성장 방식으로 leaf-wise를 사용 → 학습 속도가 빠르고 높은 예측 정확도를 보여줌
 </p>
 <h3>5. DNN<br><br>
 -다층 퍼셉트론</h3>
 <p>
-- 여러 층의 뉴런을 쌓은 구조
-- 일반적 은닉층 : ReLU(Rectified Linear Unit) 함수
-- 일반적 출력층 : sigmoid, softmax 함수
+- 여러 층의 뉴런을 쌓은 구조<br>
+- 일반적 은닉층 : ReLU(Rectified Linear Unit) 함수<br>
+- 일반적 출력층 : sigmoid, softmax 함수<br>
 - 과적합 방지 : 드롭아웃(Dropout), 배치 정규화(Batch Normalization)와 같은 정규화 기법
 </p>
 
