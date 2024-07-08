@@ -68,6 +68,15 @@
 </p>
 
 </div>
+<br><br>
 
+<h2 class="pink-text">선택한 ML model</h2>
+
+<p style = "text-align : center;" >"LightGBM"</p>
+
+
+</div>
+
+<br><br>
 </body>
 </p>
