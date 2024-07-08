@@ -232,7 +232,7 @@ Accuracy: 0.9454494714736938 (Batch Size : 256)
 <div>
 <br><br>
 <h2>기타 모델 결과<br></h2>
-<p><h3> ROC 커브 및 AUC(최종)</h3>
+<p><h3> ROC 커브 및 AUC</h3>
 
 </p>
 
