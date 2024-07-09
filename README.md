@@ -243,7 +243,7 @@ Accuracy: 0.9454494714736938 (Batch Size : 256)
 </div>
 <div>
 <br><br>
-<h2>기타 모델 결과<br></h2>
+<h2>Period의 유무에 따른 LightGBM의 결과 차이<br></h2>
 <p><h3> ROC 커브 및 AUC</h3>
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-1Team/assets/87643414/27263978-5de2-4260-a164-327803326eb9" alt="Untitled (1)"></a>
 </p>
